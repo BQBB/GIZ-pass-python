@@ -1,5 +1,5 @@
 class Solution:
-
+    # Solution using Mancher's Algorithm
     @staticmethod
     def longest_palindromic(s: str) -> str:
             if(type(s) != str):
